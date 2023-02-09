@@ -1,6 +1,6 @@
 <p align="center">
 <img src="https://user-images.githubusercontent.com/115744206/217904157-2c720ab0-7382-4eb1-94b5-396e27c1bac4.png"
-" width="800" height="450" />
+" width="800" height="400" />
 </p>
 <h2 align="center">Full Stack Web Developer</h2>
 

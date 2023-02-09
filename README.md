@@ -1,4 +1,4 @@
-![Cover](https://images.unsplash.com/photo-1535515384173-d74166f26820?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80)
+![Cover](https://images.unsplash.com/photo-1535515384173-d74166f26820?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q==250x250)
 <h2 align="center">Full Stack Web Developer</h2>
 
 <p align="center" marginTop="5rem">

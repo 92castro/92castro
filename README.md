@@ -1,5 +1,4 @@
-<h1 align="center">Celin Castro</h1>
-<h3 align="center">Full Stack Web Developer</h3>
+<h2 align="center">Full Stack Web Developer</h2>
 
 <p align="center" marginTop="5rem">
   <a href="https://docs.google.com/document/d/1YdiGo81dLMefY1WsZJhUc2LYpoOJhBg7nE_qNPm-Jg8/export?format=pdf" target="_blank">

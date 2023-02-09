@@ -1,5 +1,4 @@
-
-<img src="https://user-images.githubusercontent.com/115744206/217901781-15f652a9-892f-4bba-bd57-28e27affb525.png" width="800" height="400" />
+<img align="center src="https://user-images.githubusercontent.com/115744206/217901781-15f652a9-892f-4bba-bd57-28e27affb525.png" width="800" height="500" />
 <h2 align="center">Full Stack Web Developer</h2>
 
 <p align="center" marginTop="5rem">

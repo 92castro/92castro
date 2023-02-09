@@ -1,4 +1,5 @@
-![image](https://user-images.githubusercontent.com/115744206/217901781-15f652a9-892f-4bba-bd57-28e27affb525.png | width=100)
+
+<img src="https://user-images.githubusercontent.com/115744206/217901781-15f652a9-892f-4bba-bd57-28e27affb525.png" width="200" height="400" />
 <h2 align="center">Full Stack Web Developer</h2>
 
 <p align="center" marginTop="5rem">

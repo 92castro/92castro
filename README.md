@@ -15,7 +15,8 @@
 
 ### Hi there 👋
 
-## I recently graduated from the University of Denver in Full Stack Development and I'm eager to bring my skills and passion to the industry. In addition to my technical skills, I have strong problem-solving and communication abilities, which I honed through various team projects during my studies. I am a quick learner and able to work well under pressure. I believe my technical skills, combined with my positive attitude, and eagerness to learn, will make me a valuable addition to any development team.
+<p align="center"> I recently graduated from the University of Denver in Full Stack Development and I'm eager to bring my skills and passion to the industry. In addition to my technical skills, I have strong problem-solving and communication abilities, which I honed through various team projects during my studies. I am a quick learner and able to work well under pressure. I believe my technical skills, combined with my positive attitude, and eagerness to learn, will make me a valuable addition to any development team.
+</p>
 
 <!--
 **92castro/92castro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

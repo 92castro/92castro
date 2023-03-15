@@ -5,7 +5,7 @@
 <h2 align="center">Full Stack Web Developer</h2>
 
 <p align="center" marginTop="5rem">
-  <a href="https://docs.google.com/document/d/1D_OFkKcTab8GJpKbU7lJU-mlqEtiuu_NAO0jUStmbrE/export?format=pdf" target="_blank">
+  <a href="https://docs.google.com/document/d/1CxBko9z9A7VnEJ-wJGwPZQ8AAXdz2vCb9gBfHT4-taI/export?format=pdf" target="_blank">
     <img src="https://custom-icon-badges.demolab.com/badge/-Resume%20-CE4630?style=for-the-badge&logoColor=white&logo=download" />
   </a>
   <a href="https://www.linkedin.com/in/celin-castro/" target="_blank">

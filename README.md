@@ -15,7 +15,7 @@
 
 ### Hi there 👋
 
-<h3 align="center"> I recently graduated from the University of Denver in Full Stack Development and I'm eager to bring my skills and passion to the industry. In addition to my technical skills, I have strong problem-solving and communication abilities, which I honed through various team projects during my studies. I am a quick learner and able to work well under pressure. I believe my technical skills, combined with my positive attitude, and eagerness to learn, will make me a valuable addition to any development team.
+<h3 align="center"> I’m a full-stack web developer who thrives on the challenge of finding solutions to complex problems and with a mission to excel in the tech industry. I'm a relative newcomer to full-stack development, but I'm excited to demonstrate my abilities. I'm confident that my problem-solving skills, passion for web development, and eagerness to learn will make me a valuable asset to any team. When I'm not coding, I love spending time in the great outdoors, whether it's hiking or just enjoying the fresh air. Being outside helps me stay focused and motivated, which translates into my work as a developer.
 </h3>
  
   ---                

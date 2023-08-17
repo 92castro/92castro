@@ -15,7 +15,7 @@
 
 ### Hi there 👋
 
-<h3 align="center"> I’m a full-stack web developer who thrives on the challenge of finding solutions to complex problems and with a mission to excel in the tech industry. I'm also a quick learner and I enjoy exploring new technologies to improve my skills. Prior to software development, my background is extensive sales and customer service, and with that I bring expertise not-limited to; self-discipline, the ability to overcome obstacles, and the capacity to work under pressure. I'm confident that my problem-solving skills, passion for web development, and eagerness to learn will make me a valuable asset to any team. When I'm not coding, I usually spend my days hiking or skiing in the winter. Staying active helps me stay focused and motivated, which translates into my work as a developer.
+<h3 align="center"> Hello, my name is Celin Castro -  I'm a bilingual full-stack web developer fluent in both English and Spanish, who thrives on the challenge of solving complex problems in the tech industry. My background in sales and customer service has instilled valuable traits like self-discipline and the ability to excel under pressure. I thrive on continuous learning and enjoy finding innovative solutions. Beyond coding, I love exploring the outdoors through hiking and skiing, which keeps me focused and motivated in my work.
 </h3>
  
   ---                

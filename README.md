@@ -15,7 +15,7 @@
 
 ### Hi there 👋
 
-<h3 align="center"> Hello, my name is Celin Castro -  I'm a bilingual full-stack web developer fluent in both English and Spanish, who thrives on the challenge of solving complex problems in the tech industry. My background in sales and customer service has instilled valuable traits like self-discipline and the ability to excel under pressure. I thrive on continuous learning and enjoy finding innovative solutions. Beyond coding, I love exploring the outdoors through hiking and skiing, which keeps me focused and motivated in my work.
+<h3 align="center"> I'm Celin Castro, a bilingual (English/Spanish) full-stack developer with a background in sales. I love building web applications that solve real problems, working across front-end and back-end development. I’m always learning, improving, and finding better ways to write clean, efficient code. I enjoy collaborating with others, sharing knowledge, and taking the lead when needed to build great solutions together.
 </h3>
  
   ---                
